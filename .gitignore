@@ -1,0 +1,8 @@
+#################
+## Autoit / ISN Studio
+#################
+BackUp/
+Debug/
+*.exe
+*.lnk
+
